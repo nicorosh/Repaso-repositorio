@@ -1,2 +1,1 @@
-# Repaso-repositorio
-hola este es un repaso de como crear un repositorio
+estoy haciendo un cambio en el repositorio de repaso para practicar
